@@ -1,9 +1,9 @@
 ---
-name: "\U0001F680 Feature request"
-about: "Suggest a new feature \U0001F389 We'll consider building it if it receives
-  sufficient interest! \U0001F44D"
+name: "➕ Feature request"
+about: "Suggest a new feature. We'll consider building it if it receives
+  sufficient interest!"
 title: ''
-labels: ''
+labels: 'feature request'
 assignees: ''
 
 ---
