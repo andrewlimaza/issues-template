@@ -1,6 +1,6 @@
 ### All Submissions:
 
-* [ ] Have you followed the [WooCommerce Contributing guideline](CONTRIBUTING.MD)?
+* [ ] Have you followed the [Contributing guideline](CONTRIBUTING.MD)?
 * [ ] Does your code follow the [WordPress' coding standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)?
 * [ ] Have you checked to ensure there aren't other open [Pull Requests](../../pulls) for the same update/change?
 
@@ -12,7 +12,7 @@
 
 <!-- Describe the changes made to this Pull Request and the reason for such changes. -->
 
-Closes # .
+Closes Issue: XXX.
 
 ### How to test the changes in this Pull Request:
 
