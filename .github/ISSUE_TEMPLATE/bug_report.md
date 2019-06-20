@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41E Bug report"
+name: "🐛 Bug Report"
 about: Report a bug if something isn't working as expected in the core WooCommerce
   plugin.
 title: ''
