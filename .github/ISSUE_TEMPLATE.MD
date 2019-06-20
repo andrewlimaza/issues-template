@@ -12,10 +12,9 @@
 
 <!-- MARK COMPLETED ITEMS WITH AN [x] -->
 
-- [ ] I have searched for similar issues in both open and closed tickets and cannot find a duplicate
-- [ ] The issue still exists against the latest `master` branch of WooCommerce on Github (this is **not** the same version as on WordPress.org!)
+- [ ] I have searched for similar issues in both open and closed tickets and cannot find a duplicate.
+- [ ] The issue still exists against the latest `dev` branch of Paid Memberships Pro on Github (this is **not** the same version as on WordPress.org!)
 - [ ] I have attempted to find the simplest possible steps to reproduce the issue
-- [ ] I have included a failing test as a pull request (Optional)
 
 ## Steps to reproduce the issue
 
@@ -35,14 +34,14 @@ I was expecting to see...
 
 <!-- MARK COMPLETED ITEMS WITH AN [x] -->
 
-- [ ] This bug happens with only WooCommerce plugin active
-- [ ] This bug happens with a default WordPress theme active, or [Storefront](https://woocommerce.com/storefront/)
+- [ ] This bug happens with only Paid Memberships Pro plugin active
+- [ ] This bug happens with a default WordPress theme active, or [Memberlite](https://wordpress.org/themes/memberlite/)
 - [ ] I can reproduce this bug consistently using the steps above
 
 ## WordPress Environment
 
 <details>
 ```
-Copy and paste the system status report from **WooCommerce > System Status** in WordPress admin here.
+Please share non-sensitive information about your hosting environment such as WordPress version, PHP version, Paid Memberships Pro and any related plugins versions.
 ```
 </details>
