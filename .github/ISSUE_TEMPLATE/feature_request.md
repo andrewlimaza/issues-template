@@ -1,5 +1,5 @@
 ---
-name: "➕ Feature request"
+name: "➕ Feature Request"
 about: "Suggest a new feature. We'll consider building it if it receives
   sufficient interest!"
 title: ''
@@ -18,4 +18,4 @@ A clear and concise description of what you want to happen.
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+If applicable, add any other context or screenshots about your feature request here.
